@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+    width: 1100px;
+    margin: 1px auto;
+    letter-spacing: 7px;
+    text-shadow:-3px 2px lime,-7px 4px slateblue,-11px 6px turquoise;
+}
+
+.text {
+    text-align: center;
+    font-size: 60px;
+    font-weight: normal;
+    padding-bottom: 1px;
+    width: 1100px;
+    margin: 1px auto;
+    letter-spacing: 1px;
+    text-shadow:-3px 2px lime,-7px 4px slateblue,-11px 6px turquoise;
+}
+
+body img {
+    width: 600px;
+    height: 500px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+body p {
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    width: 1100px;
+    margin: 1px auto;
+    letter-spacing: 1px;
+    text-shadow:-3px 2px lime,-7px 4px slateblue,-11px 6px turquoise;
+}
+
+footer h2 {
+    text-align: center;
+        font-size: 50px;
+        font-weight: normal;
+        border-bottom: 2px solid black;
+        padding-bottom: 15px;
+        width: 1100px;
+        margin: 15px auto;
+        letter-spacing: 1px;
+        text-shadow:-3px 2px lime,-7px 4px slateblue,-11px 6px turquoise;
+}
+
+footer a {
+    font-size:30px;
+    text-align: center;
+}
+
+footer p {
+    text-align: left;
+}
+
+
+
